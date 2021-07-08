@@ -10,3 +10,4 @@ print("50 Day Average: $" + (str(va["fiftyDayAverage"])))
 print("Industry: "+(str(va["industry"])))
 print("Country: " + (str(va["country"])))
 print("Number of Full Time Employees: " + (str(va["fullTimeEmployees"])))
+#test
